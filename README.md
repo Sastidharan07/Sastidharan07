@@ -12,7 +12,9 @@
 - 🌱 Currently learning: **Frontend Development**, **UI/UX Designing**, **Data Structures**, **Dynamic Programming (on LeetCode)**, and **Java**  
 - 👯 Looking to collaborate on: Open source and innovative projects  
 - 💬 Ask me about: Web development or anything tech!  
+- 🎨 Skilled in creating modern and aesthetic designs using **Canva** and **Microsoft PowerPoint** 
 - 📫 Reach me at: sastidharan07@gmail.com  
+
 
 ---
 
@@ -41,6 +43,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 </p>
 
 ---
