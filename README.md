@@ -68,6 +68,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sastidharan07&theme=radical&hide_border=true" />
 </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sastidharan07&theme=rogue&area=true&hide_border=true" /> </p>
 
 ---
 
