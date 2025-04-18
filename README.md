@@ -65,7 +65,9 @@
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sastidharan07&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sastidharan07&theme=radical&hide_border=true" />
+</p>
 
 ---
 
