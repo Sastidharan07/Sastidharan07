@@ -2,14 +2,14 @@
 <h3 align="center">Developer | Learner | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Crafting+Frontend+Experiences;Designing+Interfaces+with+Passion;Solving+Problems+with+Code" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Crafting+Dream+Experiences;Designing+Interfaces+with+Passion;Solving+Problems+with+Code" alt="Typing Header" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently learning: **Frontend Development**, **UI/UX Designing**, **Data Structures**, **Dynamic Programming (on LeetCode)**, and **Java**  
+- 🌱 Currently learning: **FullStack Development**, **UI/UX Designing**, **Data Structures**, and **Java**  
 - 👯 Looking to collaborate on: Open source and innovative projects  
 - 💬 Ask me about: Web development or anything tech!  
 - 🎨 Skilled in creating modern and aesthetic designs using **Canva** and **Microsoft PowerPoint** 
@@ -25,10 +25,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/FullStack%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/UI%2FUX%20Design-F4B400?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Structures-0A66C2?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dynamic%20Programming-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
@@ -40,12 +39,18 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=ejs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 </p>
+
 
 ---
 
