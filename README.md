@@ -53,6 +53,13 @@
   <img src="https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 </p>
 
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| 🏋️ **Gym Management System** | A modular, responsive, and clean UI-based gym management system with separate files for each functionality. | HTML, CSS, JavaScript | [View Project](https://sastidharan07.github.io/Gym-Management/) |
+| 👨‍💼 **Employee Management System** | A full-stack employee management system with role-based login, CRUD operations, attendance, leave management, and admin controls. | Node.js, Express.js, EJS, SQLite | [View Project](https://employee-management-systemm-y3nt.onrender.com/login) |
+| 🚓 **Police Assistance Chatbot** | A chatbot designed to assist users in accessing police services and information quickly. | HTML, CSS, JavaScript | [View Project](https://tinyurl.com/sastidharan-Police-Assistance-Chatbot) |
 
 ---
 
