@@ -59,7 +59,7 @@
 |---------|-------------|------------|-----------|
 | 🏋️ **Gym Management System** | A modular, responsive, and clean UI-based gym management system with separate files for each functionality. | HTML, CSS, JavaScript | [View Project](https://sastidharan07.github.io/Gym-Management/) |
 | 👨‍💼 **Employee Management System** | A full-stack employee management system with role-based login, CRUD operations, attendance, leave management, and admin controls. | Node.js, Express.js, EJS, SQLite | [View Project](https://employee-management-systemm-y3nt.onrender.com/login) |
-| 📄 **Smart-Xerox Application** | A Flutter-based digital xerox/print management solution for students, featuring document upload, order tracking, admin dashboard, and automated time-slot scheduling based on college lunch break. | Flutter, Node.js, SQLite, Admin Website | [View Project](YOUR_SMART_XEROX_LINK_HERE) |
+| 📄 **Smart-Xerox Application** | A Flutter-based digital xerox/print management solution for students, featuring document upload, order tracking, admin dashboard, and automated time-slot scheduling based on college lunch break. | Flutter, Node.js, SQLite, Admin Website | [View Project](https://www.linkedin.com/posts/sastidharan7_flutter-nodejs-fullstackdevelopment-activity-7404763645647257600-BTef?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEeJ5dEBRmlhVpeYVoEPOSArCBi332r9684) |
 
 
 ---
